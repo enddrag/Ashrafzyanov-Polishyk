@@ -377,6 +377,9 @@ b{
 	header{
 		width: 255px;
 	}
+	.nav-menu{
+		font-size: 10px;
+	}
 	.content1{
 		width: 255px;
 	}
